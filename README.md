@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22"/>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22"/>](https://www.linkedin.com/in/igor-fernando-692b16202/)
 
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yngv&layout=compact)
 
