@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22]
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yngv&layout=compact)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yngv)
