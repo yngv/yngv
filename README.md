@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22"/>](https://www.linkedin.com/in/igor-fernando-692b16202/)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yngv)
+![visitors](1222https://visitor-badge.glitch.me/badge?page_id=yngv)
 ## Techs 
 
 [<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/js.svg"/>](teste)
