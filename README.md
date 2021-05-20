@@ -9,6 +9,10 @@
 
 [<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/js.svg"/>](https://github.com/yngv?tab=repositories&q=javascript)
 [<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/react.svg"/>](https://github.com/yngv?tab=repositories&q=react)
+[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/html5-plain.svg"/>](https://github.com/yngv?tab=repositories&q=html)
+[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/css3-plain.svg"/>](https://github.com/yngv?tab=repositories&q=css)
+[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/nodejs-plain.svg"/>](https://github.com/yngv?tab=repositories&q=nodejs)
+[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/linux-original.svg"/>]()
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngv&layout=compact"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=yngv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
