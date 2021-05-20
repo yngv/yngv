@@ -7,7 +7,7 @@
 ![visitors](1222https://visitor-badge.glitch.me/badge?page_id=yngv)
 ## Techs 
 
-[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/js.svg"/>](teste)
+[<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/js.svg"/>](https://github.com/yngv?tab=repositories&q=javascript)
 [<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/react.svg"/>](https://github.com/yngv?tab=repositories&q=react)
 
 
