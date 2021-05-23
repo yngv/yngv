@@ -15,7 +15,7 @@
 [<img height="30px" src="https://raw.githubusercontent.com/yngv/yngv/main/icons/linux-original.svg"/>]()
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngv&layout=compact"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=yngv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngv&layout=compact&theme=dracula&hide_border=true"/><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=yngv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&custom_title=My stats" />
 
 <!--
 **yngv/yngv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
